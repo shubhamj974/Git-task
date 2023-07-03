@@ -108,4 +108,7 @@ body {
     .user-form , .main-section{
         padding: 0 15px;
     }
+    .main-content h3{
+        text-align: center !important;
+    }
 }
